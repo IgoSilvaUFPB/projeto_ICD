@@ -2,6 +2,7 @@
 ## PROJETO
 - Igó Ferreira Melo Silva (20220155214)
 - Gilherme Barboza de Sousa (20220007418)
+- Davi Nasiasene Amorim (20220056987)
 ### Objetivo
 O projeto tem como objetivo utilizar um ou mais conjuntos de dados para realização de análises e para responder perguntas sobre esses dados.
 ### Conjunto de dados
