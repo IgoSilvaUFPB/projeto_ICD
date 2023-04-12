@@ -6,7 +6,7 @@
 ### Objetivo
 O projeto tem como objetivo utilizar um ou mais conjuntos de dados para realização de análises e para responder perguntas sobre esses dados.
 ### Conjunto de dados
-<a href="" target="_blank">link para o conjunto de dados</a>
+<a href="https://www.kaggle.com/datasets/crisparada/brazilian-cities?select=BRAZIL_CITIES_REV2022.CSV" target="_blank">A collection of 79 attributes from Brazilian Cities</a>
 ### Perguntas que podem ser respondidas utilizando o conjunto de dados.
 1. Pergunta 1?
 2. Pergunta 2?
