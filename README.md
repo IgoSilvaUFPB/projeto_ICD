@@ -5,8 +5,10 @@
 - Davi Nasiasene Amorim (20220056987)
 ### Objetivo
 O projeto tem como objetivo utilizar um ou mais conjuntos de dados para realização de análises e para responder perguntas sobre esses dados.
+- [Fase 1](https://github.com/IgoSilvaUFPB/projeto_ICD/blob/9276051445e39e67b41439008d7242c1f89459e3/projeto-fase-1.pdf)
 ### Conjunto de dados
-<a href="https://www.kaggle.com/datasets/crisparada/brazilian-cities?select=BRAZIL_CITIES.csv" target="_blank">A collection of attributes from Brazilian Cities</a>
+- [Descrição dos dados](https://github.com/IgoSilvaUFPB/projeto_ICD/blob/9276051445e39e67b41439008d7242c1f89459e3/descricao_dos%20_dados.md)
+- [Arquivo CSV](https://github.com/IgoSilvaUFPB/projeto_ICD/blob/9276051445e39e67b41439008d7242c1f89459e3/BRAZIL_CITIES.csv)
 ### Perguntas que podem ser respondidas utilizando o conjunto de dados.
 1. Pergunta 1?
 2. Pergunta 2?
