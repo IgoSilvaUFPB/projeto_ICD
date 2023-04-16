@@ -10,6 +10,6 @@ O projeto tem como objetivo utilizar um ou mais conjuntos de dados para realiza�
 - [Descrição dos dados](https://github.com/IgoSilvaUFPB/projeto_ICD/blob/9276051445e39e67b41439008d7242c1f89459e3/descricao_dos%20_dados.md)
 - [Arquivo CSV](https://github.com/IgoSilvaUFPB/projeto_ICD/blob/9276051445e39e67b41439008d7242c1f89459e3/BRAZIL_CITIES.csv)
 ### Perguntas que podem ser respondidas utilizando o conjunto de dados.
-1. Pergunta 1?
-2. Pergunta 2?
-3. Pergunta 3?
+1. Qual o ramo de negócios que tem mais impacto no PIB de uma cidade?
+2. A temperatura média de onde vivemos impacta a longevidade?
+3. Qual paralelo dividiria o Brasil de modo que metade da população ficasse ao norte, e a o outra metade ao sul?
