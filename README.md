@@ -13,3 +13,5 @@ O projeto tem como objetivo utilizar um ou mais conjuntos de dados para realiza�
 1. Qual o ramo de negócios que tem mais impacto no PIB de uma cidade?
 2. A temperatura média de onde vivemos impacta a longevidade?
 3. Qual paralelo dividiria o Brasil de modo que metade da população ficasse ao norte, e a o outra metade ao sul?
+### Notebook
+- [Análise dos dados](https://github.com/IgoSilvaUFPB/projeto_ICD/blob/d69d03b362da092c208a85d536e72aa0f38207ec/ProjetoICD.ipynb)
