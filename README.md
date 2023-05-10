@@ -16,3 +16,4 @@ O projeto tem como objetivo utilizar um ou mais conjuntos de dados para realiza�
 ### Notebook
 - [Exploração inicial](https://github.com/IgoSilvaUFPB/projeto_ICD/blob/main/ProjetoICD_exploracao_inicial.ipynb)
 - [Visualizações](https://github.com/IgoSilvaUFPB/projeto_ICD/blob/main/ProjetoICD_visualizacoes.ipynb)
+- [Agrupamentos](https://github.com/IgoSilvaUFPB/projeto_ICD/blob/main/ProjetoICD_agrupamentos.ipynb)
