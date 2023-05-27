@@ -11,8 +11,11 @@ O projeto tem como objetivo utilizar um ou mais conjuntos de dados para realiza�
 - [Arquivo CSV](https://github.com/IgoSilvaUFPB/projeto_ICD/blob/9276051445e39e67b41439008d7242c1f89459e3/BRAZIL_CITIES.csv)
 ### Perguntas que pretendemos responder pela análise do conjunto de dados
 1. Qual o ramo de negócios que tem mais impacto no PIB de uma cidade?
+[Analyss notebook](https://github.com/IgoSilvaUFPB/projeto_ICD/blob/e612591dbddaf4b014b418cdfe26fc2ab7a63735/ProjetoICD_GDP_influence.ipynb)
 2. A temperatura média de onde vivemos impacta a longevidade?
+[Analysis notebook](https://github.com/IgoSilvaUFPB/projeto_ICD/blob/e612591dbddaf4b014b418cdfe26fc2ab7a63735/ProjetoICD_longevity.ipynb)
 3. Qual paralelo dividiria o Brasil de modo que metade da população ficasse ao norte, e a o outra metade ao sul?
+[Analysis notebook](https://github.com/IgoSilvaUFPB/projeto_ICD/blob/e612591dbddaf4b014b418cdfe26fc2ab7a63735/ProjetoICD_split_latitude.ipynb)
 ### Notebook
 - [Exploração inicial](https://github.com/IgoSilvaUFPB/projeto_ICD/blob/main/ProjetoICD_exploracao_inicial.ipynb)
 - [Visualizações](https://github.com/IgoSilvaUFPB/projeto_ICD/blob/main/ProjetoICD_visualizacoes.ipynb)
